@@ -1,0 +1,10 @@
+name: demoapp
+title:
+username:
+account: luckermos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2758946
+bundleId: 4596044
+url: https://luckermos.shinyapps.io/demoapp/
+when: 1620943977.01277
