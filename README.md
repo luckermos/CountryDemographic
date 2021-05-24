@@ -4,7 +4,7 @@
 
 Aplicativo interativo em Shiny construído para representar alguns indicadores demográficos dos países. A interface do aplicativo permite escolher um país em uma lista e observar o evolutivo dos indicadores.
 
-O aplicativo pode ser acessado <a href="https://https://luckermos.shinyapps.io/demoapp/">aqui</a>.
+O aplicativo pode ser acessado <a href="https://luckermos.shinyapps.io/demoapp/">aqui</a>.
 
 ## Indicadores
 
